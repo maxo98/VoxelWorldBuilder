@@ -52,9 +52,6 @@ Plugins/*/Binaries/*
 # Builds
 Build/*
 
-# Scene save
-Saves/*
-
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/
 Build/*/**
