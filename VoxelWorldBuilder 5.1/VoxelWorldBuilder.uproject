@@ -23,6 +23,10 @@
 		{
 			"Name": "BlueprintFileUtils",
 			"Enabled": true
+		},
+		{
+			"Name": "SunPosition",
+			"Enabled": true
 		}
 	]
 }
